@@ -2,15 +2,14 @@
 https://MUAHACK.COM
 
 ![Python|2.7](https://img.shields.io/badge/MUAHACK.VN-2.7-red.svg)
-HTTPS://MUAHACK.VN
+https://MUAHACK.VN
 <div <img src
 
 ![Python|2.7](https://img.shields.io/badge/Python-2.7-blue.svg)
 <div <img src ="https://github.com/LOoLzeC/ASU/blob/master/raw/snake.png"/><br></div>
 <br><h1><a href="https://chat.whatsapp.com/JHWswU9YKJ05E2NuG0M6Bm">NHÓM CHÁT HƯỚNG DẪN
-Hoặc Zalo: 0382374225
  </a>
-
+Hoặc Zalo: 0382374225
 
 $ 25k | 3h Test
 

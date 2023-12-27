@@ -11,7 +11,7 @@ HTTPS://MUAHACK.VN
 <img src="https://github.com/LEGENDBANA/SHARP_ROOT/assets/51768247452_9b71b7d0c6_o.jpg"/>
 <br><br>
 <h3>Installing</h3><br>
-$ 15k | 1h test <br>
+$ 15k | 1h"/>
 $ 30k | 2h test https://github.com/LOoLzeC/ASU<br>
 $ cd ASU<br>
 $ bash install.sh<br><br>

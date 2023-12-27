@@ -16,7 +16,8 @@ $ 280k | 160h
 
 $ 350k | 720h
 
-Cài Đặt.sh<br><br>
+Cài Đặt
+<br><br>
 <h1>Ảnh Check</h1><br>
 <img src="https://raw.githubusercontent.com/LOoLzeC/ASU/master/raw/_20190531_050033.JPG"/>
 <br><h1>Account Checker</h1><br>

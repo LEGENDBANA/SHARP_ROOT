@@ -9,7 +9,8 @@ https://MUAHACK.VN
 <div <img src ="https://github.com/LOoLzeC/ASU/blob/master/raw/snake.png"/><br></div>
 <br><h1><a href="https://chat.whatsapp.com/JHWswU9YKJ05E2NuG0M6Bm">NHÓM CHÁT HƯỚNG DẪN
  </a>
-Hoặc Zalo: 0382374225
+
+Zalo: 0382374225
 
 $ 25k | 3h Test
 

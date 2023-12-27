@@ -11,7 +11,7 @@ $ bash install.sh<br><br>
 <h1>App Check</h1><br>
 <img
 <br><h1>Account Checker</h1><br>
-<img src="https://github.com/LEGENDBANA/SHARP_ROOT/assets/155005328/1d7e965c-f102-434a-8ccc-4e17424d9c86.jpg"/>
+<img src="https://github.com/LEGENDBANA/SHARP_ROOT/issues/1#issue-2057601431"/>
 <h1><a href ="https://youtu.be/G6U2P3T746A">YouTube Tutorial</a></h1>
 <a href
 

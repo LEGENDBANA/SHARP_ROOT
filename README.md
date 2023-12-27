@@ -13,5 +13,4 @@ $ bash install.sh<br><br>
 <br><h1>Account Checker</h1><br>
 <img src="https://raw.githubusercontent.com/LOoLzeC/ASU/master/raw/2019_05_18_17_27_51.png"/>
 <h1><a href ="https://youtu.be/G6U2P3T746A">YouTube Tutorial</a></h1>
-<a href ="https://mbasic.facebook.com/achmad.luthfi.hadi.3">ask me on facebook</a>
- 
+<a href

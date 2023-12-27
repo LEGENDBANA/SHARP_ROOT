@@ -10,7 +10,7 @@ https://MUAHACK.VN
 <br><h1><a href="https://chat.whatsapp.com/JHWswU9YKJ05E2NuG0M6Bm">NHÓM CHÁT HƯỚNG DẪN
  </a>
 
-Zalo: 0382374225 Băng
+Zalo: 0382374225
 
 $ 25k | 3h Test
 

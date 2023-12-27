@@ -18,7 +18,8 @@ $ 280k | 160h
 
 $ 350k | 720h
 
-Cài Đặt
+href="https://muahack.com/details/SHARP">Link Tải
+ </a>
 <br><br>
 <h1>Ảnh Check</h1><br>
 <img src="https://raw.githubusercontent.com/LOoLzeC/ASU/master/raw/_20190531_050033.JPG"/>

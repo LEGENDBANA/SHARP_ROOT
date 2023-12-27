@@ -8,12 +8,16 @@ HTTPS://MUAHACK.VN
 ![Python|2.7](https://img.shields.io/badge/Python-2.7-blue.svg)
 <div <img src ="https://github.com/LOoLzeC/ASU/blob/master/raw/snake.png"/><br></div>
 <br><h1><a href="https://chat.whatsapp.com/JHWswU9YKJ05E2NuG0M6Bm">NHÓM CHÁT </a>
-$ 30k | 3h Test
 
-$ 300k | 160h ASU<br>
 
-$ bash install.sh<br><br>
-<h1>App Check</h1><br>
+$ 25k | 3h Test
+
+$ 280k | 160h
+
+$ 350k | 720h
+
+Cài Đặt.sh<br><br>
+<h1>Ảnh Check</h1><br>
 <img src="https://raw.githubusercontent.com/LOoLzeC/ASU/master/raw/_20190531_050033.JPG"/>
 <br><h1>Account Checker</h1><br>
 <img src="https://raw.githubusercontent.com/LOoLzeC/ASU/master/raw/2019_05_18_17_27_51.png"/>

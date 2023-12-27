@@ -8,7 +8,7 @@ HTTPS://MUAHACK.VN
 ![Python|2.7](https://img.shields.io/badge/Python-2.7-blue.svg)
 <div <img src ="https://github.com/LOoLzeC/ASU/blob/master/raw/snake.png"/><br></div>
 <br><h1><a href="(https://chat.whatsapp.com/JHWswU9YKJ05E2NuG0M6Bm">NHÓM CHÁT </a></h1><br><h3>Ảnh Check Code Termux</h3><br>
-<ipg src="https://github.com/LEGENDBANA/SHARP_ROOT/assets/155005328/5d5e57be-24fa-4ce8-b7c9-b9a3f6cb83f9.jmg"/>
+<ipg src="https://github.com/LEGENDBANA/SHARP_ROOT/assets/155005328/5d5e57be-24fa-4ce8-b7c9-b9a3f6cb83f9.jpg"/>
 <br><br>
 <h3>Installing</h3><br>
 $ pkg install git<br>

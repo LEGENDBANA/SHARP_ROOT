@@ -5,7 +5,7 @@
 <br><br>
 <h3>Installing</h3><br>
 $ pkg install git<br>
-$ git clone https://github.com/LOoLzeC/ASU<br>
+$ git clone
 $ cd ASU<br>
 $ bash install.sh<br><br>
 <h1>App Check</h1><br>

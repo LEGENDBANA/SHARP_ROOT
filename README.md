@@ -7,7 +7,7 @@ HTTPS://MUAHACK.VN
 
 ![Python|2.7](https://img.shields.io/badge/Python-2.7-blue.svg)
 <div <img src ="https://github.com/LOoLzeC/ASU/blob/master/raw/snake.png"/><br></div>
-<br><h1><a href="https://chat.whatsapp.com/JHWswU9YKJ05E2NuG0M6Bm">NHÓM CHÁT </a></h1><br><h3>Ảnh Cheat Termux</h3><br>
+<br><h1><a href="https://chat.whatsapp.com/JHWswU9YKJ05E2NuG0M6Bm">NHÓM CHÁT </a></h1><br><h3>Ảnh Check Code Termux</h3><br>
 <img src="https://github.com/LOoLzeC/ASU/blob/master/raw/IMG-20190405-WA0003.jpg"/>
 <br><br>
 <h3>Installing</h3><br>

@@ -9,7 +9,7 @@ $ git clone
 $ cd ASU<br>
 $ bash install.sh<br><br>
 <h1>App Check</h1><br>
-<img src="https://raw.githubusercontent.com/LOoLzeC/ASU/master/raw/_20190531_050033.JPG"/>
+<img
 <br><h1>Account Checker</h1><br>
 <img src="https://raw.githubusercontent.com/LOoLzeC/ASU/master/raw/2019_05_18_17_27_51.png"/>
 <h1><a href ="https://youtu.be/G6U2P3T746A">YouTube Tutorial</a></h1>

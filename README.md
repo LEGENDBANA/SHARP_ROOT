@@ -11,7 +11,7 @@ https://MUAHACK.VN
  </a><br><br>
 <h1>Ảnh Check</h1><br>
 <img src="https://raw.githubusercontent.com/LOoLzeC/ASU/master/raw/_20190531_050033.JPG"/>
-<br><h1>Account Checker</h1><br>
+<br><h1>Check Termux</h1><br>
 <img src="https://raw.githubusercontent.com/LOoLzeC/ASU/master/raw/2019_05_18_17_27_51.png"/>
 <h1><a href ="https://www.youtube.com/@bangnguyen6734">Video Hướng Dẫn</a></h1>
 <a hrefl
